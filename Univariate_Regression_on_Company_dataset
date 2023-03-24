@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 22,
       "metadata": {
         "id": "AvtqlOzW5Zr3"
       },
@@ -235,7 +235,7 @@
         "id": "OG8OEafq-rjr",
         "outputId": "954c1f41-66d9-4956-e770-dced0575732b"
       },
-      "execution_count": null,
+      "execution_count": 13,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -410,7 +410,7 @@
         "id": "bP5nALZt-yF2",
         "outputId": "6f169aa1-d2ab-401a-d4e1-c2a28a7d902d"
       },
-      "execution_count": null,
+      "execution_count": 15,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -438,7 +438,7 @@
         "id": "RQUZeMDS-5e0",
         "outputId": "3b88b35d-5372-45d0-d86c-2d87aca653d8"
       },
-      "execution_count": null,
+      "execution_count": 16,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -665,7 +665,7 @@
         "id": "yRtkbKYJ_NtV",
         "outputId": "5a1859f0-fdab-4918-d834-96c11b6cddae"
       },
-      "execution_count": null,
+      "execution_count": 17,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -696,7 +696,7 @@
         "id": "FGNEpW-C_x33",
         "outputId": "8c250183-e8b4-42cc-b947-d69ac68afc46"
       },
-      "execution_count": null,
+      "execution_count": 18,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -720,7 +720,7 @@
       "metadata": {
         "id": "tLq2oZUsAAOq"
       },
-      "execution_count": null,
+      "execution_count": 20,
       "outputs": []
     },
     {
@@ -735,7 +735,7 @@
         "id": "M-7SsU7AA5VN",
         "outputId": "12cc10aa-2dd3-4c20-a441-4e9921733a0f"
       },
-      "execution_count": null,
+      "execution_count": 21,
       "outputs": [
         {
           "output_type": "stream",
@@ -769,7 +769,7 @@
         "id": "k1Ec9I3zBnfj",
         "outputId": "8b671888-affe-4580-ae12-5ec4dae93d98"
       },
-      "execution_count": null,
+      "execution_count": 23,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -970,7 +970,7 @@
         "id": "nT0EhjTUBtlM",
         "outputId": "f773fef4-9d78-4269-cfe4-d8a3245df113"
       },
-      "execution_count": null,
+      "execution_count": 24,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1001,7 +1001,7 @@
         "id": "DFfL1a6sB60U",
         "outputId": "e92db5fb-8d5c-4782-b6c9-b1f5ef869435"
       },
-      "execution_count": null,
+      "execution_count": 26,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1168,7 +1168,7 @@
         "id": "4En2CJRGC4L3",
         "outputId": "ce7b9ba1-a9e9-4d21-ad44-c88f81ab4ed1"
       },
-      "execution_count": null,
+      "execution_count": 27,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1192,7 +1192,7 @@
       "metadata": {
         "id": "VzP6cbQhDXZQ"
       },
-      "execution_count": null,
+      "execution_count": 32,
       "outputs": []
     },
     {
@@ -1208,7 +1208,7 @@
         "id": "gWtJMwirEIKl",
         "outputId": "bd8f7913-dd17-463c-ace5-870fff147aec"
       },
-      "execution_count": null,
+      "execution_count": 33,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1237,7 +1237,7 @@
         "id": "n6trk2qQGKQW",
         "outputId": "5df3473c-0902-4f1a-dff6-8c6eade0f252"
       },
-      "execution_count": null,
+      "execution_count": 35,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1267,7 +1267,7 @@
         "id": "f3HxlvZiG1_I",
         "outputId": "3912332a-b8c9-42a4-f953-f97317091b6d"
       },
-      "execution_count": null,
+      "execution_count": 37,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1297,7 +1297,7 @@
         "id": "bqn9zkYpHbRz",
         "outputId": "3d902d28-3af5-4baa-f38c-aaa6b5981ed6"
       },
-      "execution_count": null,
+      "execution_count": 40,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1324,7 +1324,7 @@
         "id": "2QDNcLqNIHId",
         "outputId": "f30b8e13-bb6a-4cde-95e9-2e3038560378"
       },
-      "execution_count": null,
+      "execution_count": 41,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1357,7 +1357,7 @@
         "id": "5y79INjYIZmJ",
         "outputId": "69a2a462-e012-4ece-dfb6-ede21a6fb8aa"
       },
-      "execution_count": null,
+      "execution_count": 43,
       "outputs": [
         {
           "output_type": "stream",
@@ -1391,7 +1391,7 @@
         "id": "d8c29kcgI6a-",
         "outputId": "5170a5ea-afa0-43bf-d650-19aad76f1de0"
       },
-      "execution_count": null,
+      "execution_count": 45,
       "outputs": [
         {
           "output_type": "stream",
